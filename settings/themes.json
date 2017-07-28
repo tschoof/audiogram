@@ -15,6 +15,17 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+   "Sonne720square": {
+    "width": 1024,
+    "height": 1024,
+    "framesPerSecond": 5,
+    "samplesPerFrame": 50,
+    "waveTop": 900,
+    "waveBottom": 0,
+    "backgroundImage": "SonneIcon.png",
+    "pattern": "wave",
+    "waveColor": "#FFAFC3"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
