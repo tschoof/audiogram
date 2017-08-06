@@ -18,16 +18,16 @@
    "Sonne720squ": {
     "width": 1024,
     "height": 1024,
-    "framesPerSecond": 15,
+    "framesPerSecond": 12,
     "samplesPerFrame": 128,
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 980,
     "captionLeft": 512,
-    "waveTop": 700,
-    "waveBottom": 1024,
+    "waveTop": 600,
+    "waveBottom": 800,
     "backgroundImage": "SonneIcon.png",
-    "pattern": "wave",
+    "pattern": "bars",
     "waveColor": "#FFAFC3"
   },
   "Basic": {
